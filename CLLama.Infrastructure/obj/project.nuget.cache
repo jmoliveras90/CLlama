@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sXB210KAwto=",
+  "dgSpecHash": "KRUPHFeE17g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\CLlama\\CLLama.Infrastructure\\CLLama.Infrastructure.csproj",
+  "projectFilePath": "D:\\Proyectos\\ABT\\AI\\CLlama\\CLLama.Infrastructure\\CLLama.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\llamasharp\\0.19.0\\llamasharp.0.19.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\llamasharp.backend.cpu\\0.19.0\\llamasharp.backend.cpu.0.19.0.nupkg.sha512",

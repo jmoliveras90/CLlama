@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLLama.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee2afda281ff20d2f76debf604756ab322de1aeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c5e6d771881216fd4fc386c45ab49339db9961")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLLama.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLLama.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

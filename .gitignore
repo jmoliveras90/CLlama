@@ -1,5 +1,7 @@
 ﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/CLLama.Console/bin/Debug/net8.0
+/.vs
+/CLLama.Console/bin
+/CLLama.Console/obj

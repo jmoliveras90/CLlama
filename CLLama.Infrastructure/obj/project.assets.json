@@ -772,11 +772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\CLlama\\CLLama.Infrastructure\\CLLama.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Proyectos\\ABT\\AI\\CLlama\\CLLama.Infrastructure\\CLLama.Infrastructure.csproj",
       "projectName": "CLLama.Infrastructure",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\CLlama\\CLLama.Infrastructure\\CLLama.Infrastructure.csproj",
+      "projectPath": "D:\\Proyectos\\ABT\\AI\\CLlama\\CLLama.Infrastructure\\CLLama.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\CLlama\\CLLama.Infrastructure\\obj\\",
+      "outputPath": "D:\\Proyectos\\ABT\\AI\\CLlama\\CLLama.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

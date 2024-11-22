@@ -5,3 +5,5 @@
 /.vs
 /CLLama.Console/bin
 /CLLama.Console/obj
+/CLLama.Infrastructure/bin
+/CLLama.Infrastructure/obj

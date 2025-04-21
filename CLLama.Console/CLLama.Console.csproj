@@ -11,13 +11,4 @@
     <ProjectReference Include="..\CLLama.Infrastructure\CLLama.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="models\models.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="models\readme.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>

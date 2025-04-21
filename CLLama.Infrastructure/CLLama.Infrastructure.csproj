@@ -15,4 +15,13 @@
     <PackageReference Include="LLamaSharp.Backend.Vulkan" Version="0.19.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="models\models.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="models\readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
